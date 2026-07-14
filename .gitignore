@@ -1,24 +1,20 @@
-
-#///////////////////////////
-# Cocos Creator 3D Project
-#///////////////////////////
+# Cocos Creator generated folders
 library/
 temp/
 local/
-build/
 profiles/
-native
-#//////////////////////////
-# NPM
-#//////////////////////////
+
+# Dependencies
 node_modules/
 
-#//////////////////////////
-# VSCode
-#//////////////////////////
-.vscode/
+# Build cache
+native/
 
-#//////////////////////////
-# WebStorm
-#//////////////////////////
+# Editor and OS
+.vscode/
 .idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
