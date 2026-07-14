@@ -18,3 +18,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Temporary build output
+build/
