@@ -8,7 +8,7 @@ profiles/
 node_modules/
 
 # Build cache
-native/
+/native/
 
 # Editor and OS
 .vscode/
